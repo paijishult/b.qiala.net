@@ -1,6 +1,6 @@
 # 绿色自适应网址发布页
 
-![https://www.hualigs.cn/image/634d67687e52d.jpg](https://www.hualigs.cn/image/634d67687e52d.jpg)
+![https://raw.githubusercontent.com/paijishu/paijishu./master/a6005a03d28992f781312f1fd1755242.png]([https://www.hualigs.cn/image/634d67687e52d.jpg](https://raw.githubusercontent.com/paijishu/paijishu./master/a6005a03d28992f781312f1fd1755242.png))
 
 #### 介绍
 
